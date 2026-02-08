@@ -323,5 +323,5 @@ If this tool saved you hours of work:
 </p>
 
 <p align="center">
-  <sub>Need Help? Contact us at hello@waybackrevive.com</sub>
+  <sub>Need Help? Contact us at support@waybackrevive.com</sub>
 </p>
