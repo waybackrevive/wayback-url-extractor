@@ -48,7 +48,7 @@ python extractor.py example.com --from 2020 --to 2023
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/wayback-url-extractor.git
+git clone https://github.com/waybackrevive/wayback-url-extractor.git
 cd wayback-url-extractor
 
 # Install dependencies
@@ -175,7 +175,7 @@ This tool is powerful, but the free version has limits:
 - E-commerce recovery
 - Membership site restoration
 
-### 👉 [Get Professional Help → waybackrevive.com/contact](https://waybackrevive.com/contact)
+### 👉 [Get Professional Help → waybackrevive.com/contact-us](https://waybackrevive.com/contact-us)
 
 **🎯 Perfect for SEO Agencies:**
 - White-label services available
@@ -183,7 +183,7 @@ This tool is powerful, but the free version has limits:
 - Priority support
 - Custom solutions
 
-📧 Email: hello@waybackrevive.com  
+📧 Email: support@waybackrevive.com  
 💬 Chat: Available on website
 
 ---
@@ -291,7 +291,7 @@ If this tool saved you hours of work:
 
 - [Wayback Machine](https://web.archive.org/)
 - [CDX Server API](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server)
-- [Our Other Tools](https://github.com/your-username?tab=repositories)
+- [Our Other Tools](https://tools.waybackrevive.com/)
 - [Professional Services](https://waybackrevive.com)
 
 ## 💡 Tips & Tricks
